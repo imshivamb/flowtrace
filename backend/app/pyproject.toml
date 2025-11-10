@@ -11,6 +11,7 @@ dependencies = [
     "fastapi>=0.121.0",
     "httpx>=0.28.1",
     "langchain-openai>=1.0.2",
+    "langchain-google-genai>=1.0.0",
     "langgraph>=1.0.2",
     "psycopg2-binary>=2.9.9",
     "pydantic-settings>=2.11.0",
